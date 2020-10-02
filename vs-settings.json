@@ -1,0 +1,30 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "files.autoSave": "off",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.sideBar.location": "left",
+  "editor.quickSuggestionsDelay": 1,
+  "editor.wordBasedSuggestions": false,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "editor.renderLineHighlight": "all",
+  "editor.lineHeight": 25,
+  "editor.cursorBlinking": "phase",
+  "editor.wordWrap": "on",
+  "files.trimTrailingWhitespace": true,
+  "window.zoomLevel": 0,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "500",
+  "editor.fontSize": 14,
+  "vsicons.dontShowNewVersionMessage": true,
+  "workbench.colorCustomizations": {},
+  "workbench.colorTheme": "GitHub Plus",
+  "editor.minimap.renderCharacters": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+}
